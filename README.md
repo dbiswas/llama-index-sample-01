@@ -1,8 +1,4 @@
 README
 
-# Install requirement
-
-# Step 1
-
-# Step 2
+This is a sample project where we use LLamaindex
 
